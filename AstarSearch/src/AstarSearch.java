@@ -1,3 +1,11 @@
+/*
+ * Author : Jiyoung Hwang
+ * Date   : 2015.10.5
+ * Name   : AstarSearch 
+ * Desc   : Run AstarSearch 
+ * 
+ */
+
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
